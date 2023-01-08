@@ -1,0 +1,470 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    height: 3300px;
+}
+.img img{
+position: absolute;
+width: 100%;
+height: 809px;
+left: 0px;
+top: 0px;
+}
+.header h1{
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 845px;
+    top: 216px;
+    font-family: 'Work Sans';
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+  
+    color: #151414;
+}
+.header span{
+margin-left:15rem;
+}
+
+.header p{
+position: absolute;
+width: 494px;
+height: 78px;
+left: 820px;
+top: 468px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+text-align: right;
+color: #444343;
+}
+.header button{
+position: absolute;
+width: 160px;
+height: 64px;
+left: 1150px;
+top: 578px;
+background-color: orange;
+border: none;
+border-radius: 5px;
+color:white;
+font-family: 'Work Sans';
+font-size: 20px;
+font-weight: bold;
+}
+
+/*********************************************IMG1***************************/
+.img1{
+ position: absolute;
+ background-color: rgba(255, 166, 0, 0.464);
+ clip-path: circle(40.6% at 50% 48%);
+ left: 210px;
+ top: 1048px;
+ width: 569px;
+height: 723.3px;
+}
+.img2 img{
+position: absolute;
+width: 569px;
+height: 723.3px;
+left: 206px;
+top: 939px;
+}
+
+.header1 h1{
+position: absolute;
+width: 288px;
+height: 94px;
+left: 862px;
+top: 1178px;
+font-family: 'Work Sans';
+font-weight: 700;
+font-size: 40px;
+color: #151414;
+}
+
+.header1 p{
+position: absolute;
+width: 416px;
+height: 104px;
+left: 862px;
+top: 1296px;
+font-family:cursive;
+font-weight: 100;
+font-size: 16px;
+color: #444343;
+}
+
+.header2{
+position: absolute;
+width: 395px;
+height: 26px;
+left: 856px;
+top: 1416px;
+font-family: 'Work Sans';
+font-weight: normal;
+font-weight: 300;
+font-size: 16px;
+color: #444343;
+display: flex;
+flex-direction: column;
+line-height: 40px;
+}
+
+.header2 p1 i{
+    color:green;
+    margin: 0 10px;
+}
+
+/********************************************************MY PLAN*********************************************/
+.header3 h1{
+position: absolute;
+width: 179px;
+height: 47px;
+left: 711px;
+top: 1792.3px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+
+color: #151414;
+}
+.web img{
+position: absolute;
+width: 92px;
+height: 92px;
+left: 320px;
+top: 1889px;
+}
+.web h1{
+position: absolute;
+width: 270px;
+height: 35px;
+left: 230px;
+top: 2012.26px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+color: #151414;
+}
+.web p{
+position: absolute;
+left: 277px;
+top: 2063.26px;
+font-family: 'Work Sans';
+font-weight: 500;
+font-size: 25px;
+color: #737272;
+
+}
+
+/******************************************JAVASCRIPT*********************************************/
+
+
+.js img{
+    position: absolute;
+    width: 92px;
+    height: 92px;
+    left: 631px;
+    top: 1889px;
+    }
+    .js h1{
+    position: absolute;
+    width: 270px;
+    height: 35px;
+    left: 599px;
+   top: 2006.3px;
+    font-family: 'Work Sans';
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    color: #151414;
+    }
+    .js p{
+    position: absolute;
+    left: 586px;
+    top: 2059.3px;
+    font-family: 'Work Sans';
+    font-weight:500;
+    font-size: 25px;
+    color: #737272;
+    text-align: center;
+}
+
+/*********************************************SMOKING**********************************************/
+
+.smoking img{
+position: absolute;
+width: 93px;
+height: 93px;
+left: 916px;
+top: 1889px;
+}
+.smoking h1{
+position: absolute;
+left: 853px;
+top: 2006.3px;
+font-family: 'Work Sans';
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+color: #151414;
+}
+.smoking p{
+position: absolute;
+left: 880px;
+top: 2057.3px;
+font-family: 'Work Sans';
+font-weight: 500;
+font-size: 25px;
+color: #737272;
+}
+
+/*****************************************Ecommerce**********************************************/
+.Ecommerce img{
+position: absolute;
+width: 92.96px;
+height: 92.96px;
+left: 1218px;
+top: 1889.3px;
+}
+.Ecommerce h1{
+position: absolute;
+left: 1177px;
+top: 2006.3px;
+font-family: 'Work Sans';
+font-weight: 700;
+font-size: 30px;
+color: #151414;
+}
+.Ecommerce p{
+ position: absolute;
+left: 1157px;
+top: 2057.3px;
+font-family: 'Work Sans';
+font-weight: 500;
+font-size: 25px;
+color: #737272;
+}
+
+/************************Gradient*************************/
+
+.img3{
+    position: absolute;
+background-image: linear-gradient(to right, rgb(255, 68, 0), rgba(255, 166, 0, 0.065)), url('./images/watch\ copy.png');
+width: 1140px;
+height: 300px;
+left: 230px;
+top: 2216.3px;
+border-radius:10px;
+}
+.img3 h1{
+position: relative;
+width: 469px;
+top:59px;
+left:64px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #FFFFFF;
+}
+.img3 button{
+position: relative;
+width: 160px;
+height: 64px;
+top:80px;
+left:64px;
+border-radius: 5px;
+color:orangered;
+font-size: 20px;
+border: none;
+font-weight: bold;
+}
+
+
+/************************Footer********************************/
+
+.footer{
+position: absolute;
+width: 100%;
+height: 577px;
+left: 0px;
+top: 2700px;
+background: #151414;
+}
+
+    .header5 h1{
+position: absolute;
+left: 230px;
+top: 130.3px;
+font-family: 'Work Sans';
+font-weight: 700;
+font-size: 45px;
+color: #F8F8F8;
+    }
+
+    .header5 P{
+position: absolute;
+width: 485px;
+left: 230px;
+top: 199.3px;
+font-family: 'Work Sans';
+font-weight: 300;
+font-size: 16px;
+color: #F8F8F8;
+    }
+
+    .header5 p1{
+        position: absolute;
+width: 485px;
+left: 230px;
+top: 301px;
+font-family: 'Work Sans';
+font-weight: 300;
+font-size: 16px;
+color: #F8F8F8;
+    }
+
+.header5 p2{
+ position: absolute;
+width: 485px;
+left: 230px;
+top: 343px;
+font-family: 'Work Sans';
+font-weight: 300;
+font-size: 16px;
+color: #F8F8F8;
+}
+
+/*************************************SOCIAL MEDIA**********************/
+
+
+
+.social{
+    position: absolute;
+    display: flex;
+   margin-left: 13rem;
+    align-items: center;
+    margin-top: 3100px;
+    font-size: 35px;
+    cursor:pointer;
+    float: left;
+}
+
+.facebook{
+    background-color: rgba(0, 0, 0, 0.589);
+    height:60px;
+    width:60px;
+    border-radius: 50%;
+  
+}
+.facebook:hover{
+    box-shadow: 1px 1px 10px  #4267B2 , 1px 1px 20px  #4267B2;
+}
+.facebook i{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-top: 0.7rem;
+    color: #4267B2;
+}
+.twitter{
+    background-color: rgba(0, 0, 0, 0.589);
+    height:60px;
+    width:60px;
+    border-radius: 50%;
+    margin-left: 2rem;
+}
+.twitter i{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-top: 0.7rem;
+    color:#1DA1F2;
+  
+}
+.twitter:hover{
+    box-shadow: 1px 1px 10px #1DA1F2 , 1px 1px 20px #1DA1F2;
+}
+.what{
+    background-color: rgba(0, 0, 0, 0.589);
+    height:60px;
+    width:60px;
+    border-radius: 50%;
+    margin-left: 2rem;
+}
+.what i{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-top: 0.7rem;
+    color:#25D366;
+   
+}
+.what:hover{
+    box-shadow: 1px 1px 10px #25D366 , 1px 1px 20px #25D366;
+}
+
+.Youtube{
+    background-color: rgba(0, 0, 0, 0.842);
+    height:60px;
+    width:60px;
+    border-radius: 50%;
+    margin-left: 2rem;
+}
+.Youtube:hover{
+    box-shadow: 1px 1px 10px red , 1px 1px 20px red;
+}
+.Youtube i{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-top: 0.7rem;
+    color:red;
+}
+
+/********************Subscribe*********************/
+
+.sub h1{
+    position: absolute;
+   margin-left: 63rem;
+    margin-top: 3380px;
+    font-size: 35px;
+    color: white;
+    font-family: 'Poppins';
+}
+.email{
+    position: absolute;
+   margin-left: 63rem;
+    margin-top: 3000px;
+}
+
+.email input{
+    height: 40px;
+    width:250px;
+    border-radius: 10px;
+    background-color: black;
+    border: 1px solid white;
+}
+.email button{
+    position: absolute;
+    width: 170.11px;
+height: 64px;
+top:70px;
+right:72px;
+border-radius: 10px;
+font-size: 20px;
+color:orangered;
+cursor:pointer;
+
+}
